@@ -11,6 +11,10 @@
 - Ionic potentials use Gaussian-based Ewald summation for inter-ion and self-energy
 - In-built support for GPU acceleration
 
+### Example:
+
+See [diff-dft/H3_optimization.py](https://github.com/nkarve/diff-dft/blob/main/diff-dft/H3_optimization.py) - finds the energy, electron density, nuclei positions and bond angles in the ground state of the H<sub>3</sub><sup>+</sup> ion.
+
 ### Extensions:
 Currently in proof-of-concept stage. Incoming features include:
 - Callback-style functional builder
