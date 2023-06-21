@@ -15,7 +15,7 @@
 
 See [diff-dft/H3_optimization.py](https://github.com/nkarve/diff-dft/blob/main/diff-dft/H3_optimization.py) - finds the energy, electron density, nuclei positions and bond angles in the ground state of the H<sub>3</sub><sup>+</sup> ion.
 
-<img src="/diff-dft/h3density.png">
+<img src="/diff-dft/h3densitymap.png">
 
 ### Extensions:
 Currently in proof-of-concept stage. Incoming features include:
